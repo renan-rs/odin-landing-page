@@ -73,6 +73,7 @@ body {
     padding: 10px 0;
     color: white;
     font-weight: 900;
+    cursor: pointer;
 }
 .img-placeholder{
     display: flex;
@@ -133,6 +134,7 @@ body {
     display: flex;
     justify-content: center;
     padding: 100px 0;
+    margin-bottom: 100px;
 }
 .quotes .content{
     display: flex;
@@ -151,4 +153,45 @@ body {
     align-self: flex-end;
     font-weight: 700;
     font-size: 22px;
+}
+
+.action{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+}
+.action-wrapper{
+    width: 700px;
+    background-color: #3882F6;
+    padding: 36px;
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 20px;
+}
+.action-text{
+    width: 70%;
+}
+.action-text h2,
+.action-text p{
+    margin: 0;
+}
+.action button{
+    background-color: transparent;
+    border: 2px solid white;
+    padding: 10px 20px;
+    color:white;
+    border-radius: 10px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.footer{
+    background-color: #1F2937;
+    padding: 30px;
+    color:white;
+    text-align: center;
 }
