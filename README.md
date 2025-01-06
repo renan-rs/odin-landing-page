@@ -2,6 +2,11 @@
 
 ## Project: Foundation - Landing Page
 
+### PREVIEW
+[https://renan-rs.github.io/odin-landing-page/](https://renan-rs.github.io/odin-landing-page/)
+
+---
+
 ### Introduction
 For this project you’ll be creating an entire web page from a design we’ll provide for you. If you’ve been following along you should have the skills you need to accomplish this, but it may not be easy!
 
